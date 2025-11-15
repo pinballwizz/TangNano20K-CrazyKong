@@ -4,6 +4,7 @@ Code by DarFPGA.
 Notes:
 Setup for keyboard controls in Upright mode (5 = Coin) (Start P1 = 1) (Start P2 = 2)(LCtrl - Jump)(Arrow Keys = Move L or R or U or D)
 Consult the Schematics Folder for Information regarding peripheral connections.
+Consult Clock Setup Notes in the Schematics Folder regarding setup of Internal Clock 0 Signal on Tang Nano Pin 10.
 
 Build:
 * Obtain correct roms file for Crazy Kong (see scripts in tools folder for rom details).
